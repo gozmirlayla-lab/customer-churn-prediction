@@ -1,6 +1,6 @@
 # Prédiction du départ des clients — Telco
 
-** Comparer une référence, une régression logistique et un arbre, puis proposer un ciblage sous hypothèses explicites.
+ Comparer une référence, une régression logistique et un arbre, puis proposer un ciblage sous hypothèses explicites.
 
 ![Précision-rappel](reports/precision_recall.png)
 
