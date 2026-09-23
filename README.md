@@ -1,6 +1,6 @@
 # Prédiction du départ des clients — Telco
 
-**Projet portfolio de Layla EL GOZMIR.** Comparer une référence, une régression logistique et un arbre, puis proposer un ciblage sous hypothèses explicites.
+** Comparer une référence, une régression logistique et un arbre, puis proposer un ciblage sous hypothèses explicites.
 
 ![Précision-rappel](reports/precision_recall.png)
 
